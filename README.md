@@ -1,6 +1,6 @@
 # Nexus
 
-[Nexus] is a sophisticated and feature-rich admin dashboard built using React and Material-UI. It offers seamless data management, interactive data visualizations, and an elegant user interface to enhance your administrative experience.
+Nexus is a sophisticated and feature-rich admin dashboard built using React and Material-UI. It offers seamless data management, interactive data visualizations, and an elegant user interface to enhance your administrative experience.
 
 ## Online Access
 
@@ -18,7 +18,7 @@ Experience the dashboard online: [Dashboard Name Live Demo](https://nexus-one-ps
 - React
 - Material-UI
 - Data Grid
-- [Other relevant technologies used]
+- JavaScript, Nivo Charts, Full Calendar, Formik, Yup Validation and other relevant technologies
 
 ## Getting Started
 
