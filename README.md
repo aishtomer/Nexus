@@ -1,4 +1,4 @@
-# [Nexus]
+# Nexus
 
 [Nexus] is a sophisticated and feature-rich admin dashboard built using React and Material-UI. It offers seamless data management, interactive data visualizations, and an elegant user interface to enhance your administrative experience.
 
