@@ -6,6 +6,8 @@ Nexus is a sophisticated and feature-rich admin dashboard built using React and 
 
 Experience the dashboard online: [Dashboard Name Live Demo](https://nexus-one-psi.vercel.app/)
 
+<img width="1512" alt="Screenshot 2023-08-18 at 5 12 31 PM" src="https://github.com/aishtomer/Nexus/assets/91372700/e6792337-2fce-4db3-88d6-99d05c152409">
+
 ## Features
 
 - **Data Grid:** Effortlessly manage and manipulate data with the integrated Data Grid component.
